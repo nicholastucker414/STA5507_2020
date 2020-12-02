@@ -1,0 +1,13 @@
+Age_Group,Response,Value,Value_2,Occupation,Response_2
+40 or younger,Yes,10,17,Fishermen,Yes
+40 or younger,No,16,30,Fishermen,No
+40 or younger,Unsure,2,3,Fishermen,Unsure
+41-50,Yes,6,6,Fish Traders,Yes
+41-50,No,16,10,Fish Traders,No
+41-50,Unsure,1,0,Fish Traders,Unsure
+51-60,Yes,3,,,
+51-60,No,8,,,
+51-60,Unsure,0,,,
+61 or older,Yes,4,,,
+61 or older,No,0,,,
+61 or older,Unsure,0,,,
